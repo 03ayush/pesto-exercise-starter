@@ -12,6 +12,3 @@ const animalSort = animals => {
 };
 
 export { animalSort };
-
-
-{name: 'Snake', numberOfLegs: 0 }
